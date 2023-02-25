@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block page_header %}
+<div class="passage-source">
+    <i>Latin by the natural Method</i><br>
+    by Fr William Most
+</div>
+<div class="passage-name">
+    Lecture 1
+</div>
+<script>
+    loadWordData('https://tollelege.s3.us-east-2.amazonaws.com/lnm-1.json')
+</script>
+{% endblock %}
+
+{% block page_content %}
+<span id="1" onclick="getWordData(this)">Columbus</span>
+<span id="2" onclick="getWordData(this)">fuit</span>
+<span id="3" onclick="getWordData(this)">nauta</span>.
+<span id="5" onclick="getWordData(this)">Sed</span>
+<span id="6" onclick="getWordData(this)">Columbus</span>
+<span id="7" onclick="getWordData(this)">non</span>
+<span id="8" onclick="getWordData(this)">habuit</span>
+<span id="9" onclick="getWordData(this)">navem</span>.
+<span id="11" onclick="getWordData(this)">Columbus</span>
+<span id="12" onclick="getWordData(this)">venit</span>
+<span id="13" onclick="getWordData(this)">ad</span>
+<span id="14" onclick="getWordData(this)">Reginam</span>
+<span id="15" onclick="getWordData(this)">Isabellam</span>.
+<span id="17" onclick="getWordData(this)">Columbus</span>
+<span id="18" onclick="getWordData(this)">dixit</span>:
+<span id="20" onclick="getWordData(this)">Mundus</span>
+<span id="21" onclick="getWordData(this)">est</span>
+<span id="22" onclick="getWordData(this)">rotundus</span>.
+<span id="24" onclick="getWordData(this)">Mundus</span>
+<span id="25" onclick="getWordData(this)">non</span>
+<span id="26" onclick="getWordData(this)">est</span>
+<span id="27" onclick="getWordData(this)">planus</span>.
+<span id="29" onclick="getWordData(this)">Regina</span>
+<span id="30" onclick="getWordData(this)">dedit</span>
+<span id="31" onclick="getWordData(this)">pecuniam</span>.
+<span id="33" onclick="getWordData(this)">Columbus</span>
+<span id="34" onclick="getWordData(this)">non</span>
+<span id="35" onclick="getWordData(this)">invenit</span>
+<span id="36" onclick="getWordData(this)">Indiam</span>.
+<span id="38" onclick="getWordData(this)">Columbus</span>
+<span id="39" onclick="getWordData(this)">invenit</span>
+<span id="40" onclick="getWordData(this)">Americam</span>.
+<span id="42" onclick="getWordData(this)">America</span>
+<span id="43" onclick="getWordData(this)">non</span>
+<span id="44" onclick="getWordData(this)">fuit</span>
+<span id="45" onclick="getWordData(this)">parva</span>.
+{% endblock %}

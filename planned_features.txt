@@ -1,0 +1,4 @@
+separation marks between grammar table entries
+automate the generation of page header info
+handle asterisks in grammar info
+handle line breaks for poetry
