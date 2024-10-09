@@ -1,0 +1,18 @@
+{% extends "reader/base.html" %}
+
+{% block title %}{{ book.title }}{% endblock title %}
+
+{% block content %}
+<ul>
+    <li><a href="{% url "dashboard" %}">Back to dashboard</a></li>
+    <li><a href="{% url "reader:library" %}">Back to library</a></li>
+</ul>
+<h1>{{ book.title }}</h1>
+    {% for page in pages %}
+        <h2>
+            <a href="{{ page.get_absolute_url }}">
+                {{ page.title }}
+            </a>
+        </h2>
+    {% endfor %}
+{% endblock content %}

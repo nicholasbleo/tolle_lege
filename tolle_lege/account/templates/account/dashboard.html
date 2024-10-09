@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock title %}
+
+{% block content %}
+<ul>
+<li><a href="{% url "reader:library" %}">Go to library</a></li>
+<li><a href="{% url "password_change" %}">Change your password</a></li>
+<li><a href="{% url "logout" %}">Log out</a></li>
+</ul>
+{% endblock content %}

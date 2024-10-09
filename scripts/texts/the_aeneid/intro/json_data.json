@@ -1,0 +1,714 @@
+{
+    "1": {
+        "word": "ARMA",
+        "word_data": [
+            "arm.a                N      2 2 NOM P N",
+            "arm.a                N      2 2 VOC P N",
+            "arm.a                N      2 2 ACC P N",
+            "armum, armi  N (2nd) N   [XWXAO]",
+            "arms (pl.), weapons, armor, shield; close fighting weapons; equipment; force;",
+            "arm.a                V      1 1 PRES ACTIVE  IMP 2 S",
+            "armo, armare, armavi, armatus  V (1st) TRANS   [XWXAO]",
+            "equip, fit with armor; arm; strengthen; rouse, stir; incite war; rig (ship);"
+        ]
+    },
+    "2": {
+        "word": "virumque",
+        "word_data": [
+            "que                  TACKON",
+            "-que = and (enclitic, translated before attached word); completes plerus/uter;",
+            "vir.um               N      2 2 NOM S N",
+            "vir.um               N      2 2 VOC S N",
+            "vir.um               N      2 2 ACC S N",
+            "virum, viri  N (2nd) N   [GBXEK]    NeoLatin  uncommon",
+            "virus;",
+            "vir.um               N      2 3 ACC S M",
+            "vir, viri  N (2nd) M   [XXXAX]",
+            "man; husband; hero; person of courage, honor, and nobility;",
+            "vir.um               N      3 3 GEN P F",
+            "vis, viris  N (3rd) F   [XXXAX]",
+            "strength (bodily) (pl.), force, power, might, violence; resources; large body;",
+            "*"
+        ]
+    },
+    "3": {
+        "word": "cano",
+        "word_data": [
+            "can.o                N      2 1 DAT S M",
+            "can.o                N      2 1 ABL S M",
+            "canus, cani  N (2nd) M   [XBXCO]",
+            "gray hairs (pl.); old age;",
+            "can.o                N      2 2 DAT S N",
+            "can.o                N      2 2 ABL S N",
+            "canum, cani  N (2nd) N   [XXXFS]    veryrare",
+            "wicker basket (used for food/flowers and in sacrifices);",
+            "can.o                ADJ    1 1 DAT S M POS",
+            "can.o                ADJ    1 1 DAT S N POS",
+            "can.o                ADJ    1 1 ABL S M POS",
+            "can.o                ADJ    1 1 ABL S N POS",
+            "canus, cana, canum  ADJ   [XXXBO]",
+            "white, gray; aged, old, wise; hoary; foamy, white-capped; white w/snow/frost;",
+            "can.o                V      3 1 PRES ACTIVE  IND 1 S",
+            "cano, canere, cani, canitus  V (3rd)   [EXXFS]    Later  veryrare",
+            "cano, canere, cecini, cantus  V (3rd)   [XXXAO]",
+            "sing, celebrate, chant; crow; recite; play (music)/sound (horn); foretell;"
+        ]
+    },
+    "4": {
+        "word": ",",
+        "word_data": "punct"
+    },
+    "5": {
+        "word": "Troiae",
+        "word_data": [
+            "Troiae                           ========   UNKNOWN"
+        ]
+    },
+    "6": {
+        "word": "qui",
+        "word_data": [
+            "qu.i                 PRON   1 0 NOM P M",
+            "[XXXAO]",
+            "who; that; which, what; of which kind/degree; person/thing/time/point that;",
+            "who/what/which?, what/which one/man/person/thing? what kind/type of?;",
+            "who/whatever, everyone who, all that, anything that;",
+            "any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);",
+            "who?, which?, what?; what kind of?;",
+            "qu.i                 PRON   1 0 NOM S M",
+            "who; that; which, what; of which kind/degree; person/thing/time/point that;",
+            "who/whatever, everyone who, all that, anything that;",
+            "any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);",
+            "who?, which?, what?; what kind of?;",
+            "qui                  V      6 1 PRES ACTIVE  IMP 2 S",
+            "queo, quire, quivi(ii), quitus  V   [XXXBX]",
+            "be able;",
+            "qui                  ADV    POS",
+            "qui  ADV   [XXXAO]",
+            "how?; how so; in what way; by what/which means; whereby; at whatever price;"
+        ]
+    },
+    "7": {
+        "word": "primus",
+        "word_data": [
+            "prim.us              N      2 1 NOM S M",
+            "primus, primi  N (2nd) M   [XXXDX]    lesser",
+            "chiefs (pl.), nobles;",
+            "prim.us              ADJ    1 1 NOM S M POS",
+            "primus, prima, primum  ADJ   [XXXAX]",
+            "first, foremost/best, chief, principal; nearest/next; [in primis => especially]",
+            "prim.us              NUM    1 1 NOM S M ORD",
+            "unus -a -um, primus -a -um, singuli -ae -a, semel  NUM   [XXXAX]",
+            "1th - (ORD, 'in series'); (a/the) 1th (part) (fract w/pars?);"
+        ]
+    },
+    "8": {
+        "word": "ab",
+        "word_data": [
+            "ab                   PREP   ABL",
+            "ab  PREP  ABL   [XXXAO]",
+            "by (agent), from (departure, cause, remote origin/time); after (reference);"
+        ]
+    },
+    "9": {
+        "word": "oris",
+        "word_data": [
+            "or.is                N      1 1 LOC P F",
+            "or.is                N      1 1 DAT P F",
+            "or.is                N      1 1 ABL P F",
+            "ora, orae  N (1st) F   [XXXBX]",
+            "shore, coast;",
+            "or.is                V      3 1 PRES ACTIVE  IND 2 S",
+            "oro, orere, -, -  V (3rd)   [EXXEX]    Later  uncommon",
+            "burn;",
+            "or.is                N      3 2 GEN S N",
+            "os, oris  N (3rd) N   [XXXAX]",
+            "mouth, speech, expression; face; pronunciation;",
+            "*"
+        ]
+    },
+    "10": {
+        "word": "Italiam",
+        "word_data": [
+            "itali.am             N      1 1 ACC S F",
+            "Italia, Italiae  N (1st) F   [XXIAX]",
+            "Italy;"
+        ]
+    },
+    "11": {
+        "word": ",",
+        "word_data": "punct"
+    },
+    "12": {
+        "word": "fato",
+        "word_data": [
+            "fat.o                VPAR   1 1 DAT S M PERF         PPL",
+            "fat.o                VPAR   1 1 DAT S N PERF         PPL",
+            "fat.o                VPAR   1 1 ABL S M PERF         PPL",
+            "fat.o                VPAR   1 1 ABL S N PERF         PPL",
+            "for, fari, fatus sum  V (1st) DEP   [XXXBX]",
+            "speak, talk; say;",
+            "fat.o                N      2 2 DAT S N",
+            "fat.o                N      2 2 ABL S N",
+            "fatum, fati  N (2nd) N   [XPXAX]",
+            "utterance, oracle; fate, destiny; natural term of life; doom, death, calamity;",
+            "*"
+        ]
+    },
+    "13": {
+        "word": "profugus",
+        "word_data": [
+            "profug.us            N      2 1 NOM S C",
+            "profugus, profugi  N (2nd) C   [XXXDX]    lesser",
+            "fugitive; runaway; refugee; exile;",
+            "profug.us            ADJ    1 1 NOM S M POS",
+            "profugus, profuga, profugum  ADJ   [XXXBX]",
+            "fugitive/fleeing/escaping; exiled; shrinking (from task); P:eluding one's grasp"
+        ]
+    },
+    "14": {
+        "word": ",",
+        "word_data": "punct"
+    },
+    "15": {
+        "word": "Laviniaque",
+        "word_data": [
+            "Laviniaque                       ========   UNKNOWN"
+        ]
+    },
+    "16": {
+        "word": "venit",
+        "word_data": [
+            "veni.t               V      6 1 PRES ACTIVE  IND 3 S",
+            "veneo, venire, venivi(ii), venitus  V   [XXXBO]",
+            "go for sale, be sold (as slave), be disposed of for (dishonorable/venal) gain;",
+            "ven.it               V      4 1 PRES ACTIVE  IND 3 S",
+            "ven.it               V      4 1 PERF ACTIVE  IND 3 S",
+            "venio, venire, veni, ventus  V (4th)   [XXXAX]",
+            "come;"
+        ]
+    },
+    "17": {
+        "word": "litora",
+        "word_data": [
+            "litor.a              N      3 2 NOM P N",
+            "litor.a              N      3 2 VOC P N",
+            "litor.a              N      3 2 ACC P N",
+            "litus, litoris  N (3rd) N   [XXXEO]    uncommon",
+            "shore, seashore, coast, strand; river bank; beach, landing place;"
+        ]
+    },
+    "18": {
+        "word": ",",
+        "word_data": "punct"
+    },
+    "19": {
+        "word": "multum",
+        "word_data": [
+            "mult.um              N      2 2 NOM S N",
+            "mult.um              N      2 2 VOC S N",
+            "mult.um              N      2 2 ACC S N",
+            "multum, multi  N (2nd) N   [XXXDX]    lesser",
+            "many things (pl.); much; many;",
+            "mult.um              ADJ    1 1 NOM S N POS",
+            "mult.um              ADJ    1 1 VOC S N POS",
+            "mult.um              ADJ    1 1 ACC S M POS",
+            "mult.um              ADJ    1 1 ACC S N POS",
+            "multus, multa -um, -, plurimus -a -um  ADJ   [XXXAX]",
+            "much, many, great, many a; large, intense, assiduous; tedious;",
+            "multum               ADV    POS",
+            "multum, plus, plurimum  ADV   [XXXDX]    lesser",
+            "much, greatly, plenty, very; more; most;",
+            "mult.um              N      2 1 ACC S M",
+            "-, multi  N (2nd) M   [XXXDX]    lesser",
+            "many men/people (pl.); the common/ordinary people; the many; common herd;",
+            "*"
+        ]
+    },
+    "20": {
+        "word": "ille",
+        "word_data": [
+            "ill.e                PRON   6 1 NOM S M",
+            "ille, illa, illud  PRON   [XXXAX]",
+            "that; those (pl.); also DEMONST; that person/thing; the well known; the former;"
+        ]
+    },
+    "21": {
+        "word": "et",
+        "word_data": [
+            "et                   CONJ",
+            "et  CONJ   [XXXAX]",
+            "and, and even; also, even;  (et ... et = both ... and);"
+        ]
+    },
+    "22": {
+        "word": "terris",
+        "word_data": [
+            "terr.is              N      1 1 LOC P F",
+            "terr.is              N      1 1 DAT P F",
+            "terr.is              N      1 1 ABL P F",
+            "terra, terrae  N (1st) F   [XXXAX]",
+            "earth, land, ground; country, region;"
+        ]
+    },
+    "23": {
+        "word": "iactatus",
+        "word_data": [
+            "iactat.us            VPAR   1 1 NOM S M PERF PASSIVE PPL",
+            "jacto, jactare, jactavi, jactatus  V (1st)   [XXXAX]",
+            "throw away, throw out, throw, jerk about; disturb; boast, discuss;"
+        ]
+    },
+    "24": {
+        "word": "et",
+        "word_data": [
+            "et                   CONJ",
+            "et  CONJ   [XXXAX]",
+            "and, and even; also, even;  (et ... et = both ... and);"
+        ]
+    },
+    "25": {
+        "word": "alto",
+        "word_data": [
+            "alt.o                VPAR   3 1 DAT S M PERF PASSIVE PPL",
+            "alt.o                VPAR   3 1 DAT S N PERF PASSIVE PPL",
+            "alt.o                VPAR   3 1 ABL S M PERF PASSIVE PPL",
+            "alt.o                VPAR   3 1 ABL S N PERF PASSIVE PPL",
+            "alo, alere, alui, altus  V (3rd) TRANS   [XXXAO]",
+            "feed, nourish, rear, nurse, suckle; cherish; support, maintain, develop;",
+            "alt.o                N      2 2 DAT S N",
+            "alt.o                N      2 2 ABL S N",
+            "altum, alti  N (2nd) N   [XXXBO]",
+            "the_deep, the_sea; deep water; a height/depth; remote/obscure period/source;",
+            "alt.o                V      1 1 PRES ACTIVE  IND 1 S",
+            "alto, altare, altavi, altatus  V (1st) TRANS   [DXXFS]    Late  veryrare",
+            "raise, make high, elevate;",
+            "alt.o                ADJ    1 1 DAT S M POS",
+            "alt.o                ADJ    1 1 DAT S N POS",
+            "alt.o                ADJ    1 1 ABL S M POS",
+            "alt.o                ADJ    1 1 ABL S N POS",
+            "altus, alta -um, altior -or -us, altissimus -a -um  ADJ   [XXXAO]",
+            "high; deep/profound; shrill; lofty/noble; deep rooted; far-fetched; grown great"
+        ]
+    },
+    "26": {
+        "word": "vi",
+        "word_data": [
+            "v.i                  N      3 3 LOC S F                   Early",
+            "v.i                  N      3 3 DAT S F",
+            "v.i                  N      3 3 ABL S F",
+            "vis, vis  N (3rd) F   [XXXAX]",
+            "strength (sg. only), force, power, might, violence;",
+            "vi                   NUM    2 0 X   X X CARD",
+            "6  as a ROMAN NUMERAL;"
+        ]
+    },
+    "27": {
+        "word": "superum",
+        "word_data": [
+            "super.um             N      2 1 ACC S M",
+            "superus, superi  N (2nd) M   [XXXDX]    lesser",
+            "gods (pl.) on high, celestial deities; those above;",
+            "super.um             N      2 2 NOM S N",
+            "super.um             N      2 2 VOC S N",
+            "super.um             N      2 2 ACC S N",
+            "superum, superi  N (2nd) N   [XXXDX]    lesser",
+            "heaven (pl.); heavenly bodies; heavenly things; higher places;",
+            "super.um             ADJ    1 1 NOM S N POS",
+            "super.um             ADJ    1 1 VOC S N POS",
+            "super.um             ADJ    1 1 ACC S M POS",
+            "super.um             ADJ    1 1 ACC S N POS",
+            "superus, supera -um, superior -or -us, supremus -a -um  ADJ   [XXXAX]",
+            "above, high; higher, upper, of this world; greatest, last, highest;",
+            "*"
+        ]
+    },
+    "28": {
+        "word": "saevae",
+        "word_data": [
+            "saev.ae              ADJ    1 1 GEN S F POS",
+            "saev.ae              ADJ    1 1 DAT S F POS",
+            "saev.ae              ADJ    1 1 NOM P F POS",
+            "saev.ae              ADJ    1 1 VOC P F POS",
+            "saevus, saeva -um, saevior -or -us, saevissimus -a -um  ADJ   [XXXAO]",
+            "savage; fierce/ferocious; violent/wild/raging; cruel, harsh, severe; vehement;"
+        ]
+    },
+    "29": {
+        "word": "memorem",
+        "word_data": [
+            "memor.em             ADJ    3 1 ACC S C POS",
+            "memor, (gen.), memoris  ADJ   [XXXAX]",
+            "remembering; mindful (of w/GEN), grateful; unforgetting, commemorative;",
+            "memor.em             V      1 1 PRES ACTIVE  SUB 1 S",
+            "memoro, memorare, memoravi, memoratus  V (1st)   [XXXAX]",
+            "remember; be mindful of (w/GEN/ACC); mention/recount/relate, remind/speak of;"
+        ]
+    },
+    "30": {
+        "word": "Iunonis",
+        "word_data": [
+            "iunon.is             N      3 1 GEN S F",
+            "iunon.is             N      3 1 NOM P F                   Archaic",
+            "Juno, Junonis  N (3rd) F   [AEIBX]    Archaic",
+            "Juno; (Roman goddess, wife of Jupiter);",
+            "*"
+        ]
+    },
+    "31": {
+        "word": "ob",
+        "word_data": [
+            "ob                   PREP   ACC",
+            "ob  PREP  ACC   [XXXAX]",
+            "on account of, for the sake of, for; instead of; right before;"
+        ]
+    },
+    "32": {
+        "word": "iram",
+        "word_data": [
+            "ir.am                N      1 1 ACC S F",
+            "ira, irae  N (1st) F   [XXXBO]",
+            "anger; ire, wrath; resentment; indignation; rage/fury/violence; bad blood;"
+        ]
+    },
+    "33": {
+        "word": ";",
+        "word_data": "punct"
+    },
+    "34": {
+        "word": "multa",
+        "word_data": [
+            "mult.a               N      1 1 NOM S F",
+            "mult.a               N      1 1 VOC S F",
+            "mult.a               N      1 1 ABL S F",
+            "multa, multae  N (1st) F   [XLXCO]",
+            "fine; penalty; penalty involving property (livestock, later money);",
+            "mult.a               N      2 2 NOM P N",
+            "mult.a               N      2 2 VOC P N",
+            "mult.a               N      2 2 ACC P N",
+            "multum, multi  N (2nd) N   [XXXDX]    lesser",
+            "many things (pl.); much; many;",
+            "mult.a               V      1 1 PRES ACTIVE  IMP 2 S",
+            "multo, multare, multavi, multatus  V (1st) TRANS   [XLXCO]",
+            "punish, fine; extract as forfeit; sentence to pay;",
+            "mult.a               ADJ    1 1 NOM S F POS",
+            "mult.a               ADJ    1 1 VOC S F POS",
+            "mult.a               ADJ    1 1 ABL S F POS",
+            "mult.a               ADJ    1 1 NOM P N POS",
+            "mult.a               ADJ    1 1 VOC P N POS",
+            "mult.a               ADJ    1 1 ACC P N POS",
+            "multus, multa -um, -, plurimus -a -um  ADJ   [XXXAX]",
+            "much, many, great, many a; large, intense, assiduous; tedious;",
+            "mult.a               N      1 1 ABL S F",
+            "-, multae  N (1st) F   [XXXDX]    lesser",
+            "many women (pl.);"
+        ]
+    },
+    "35": {
+        "word": "quoque",
+        "word_data": [
+            "que                  TACKON",
+            "PACKON w/qui => whoever it be; whatever; each, each one; everyone, everything;",
+            "qu.o                 PRON   1 0 ABL S M",
+            "qu.o                 PRON   1 0 ABL S N",
+            "qu  PACK   [XXXAX]",
+            "(w/-que) each, each one; every, everybody, everything (more than 2); whatever;",
+            "(w/-que) any; each;",
+            "quoque               ADV    POS",
+            "quoque  ADV   [XXXAO]",
+            "likewise/besides/also/too; not only; even/actually; (after word emphasized);",
+            "que                  TACKON",
+            "-que = and (enclitic, translated before attached word); completes plerus/uter;",
+            "qu.o                 PRON   1 0 ABL S M",
+            "qu.o                 PRON   1 0 ABL S N",
+            "who; that; which, what; of which kind/degree; person/thing/time/point that;",
+            "who/what/which?, what/which one/man/person/thing? what kind/type of?;",
+            "who/whatever, everyone who, all that, anything that;",
+            "any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);",
+            "who?, which?, what?; what kind of?;",
+            "quo                  ADV    POS",
+            "quo  ADV   [XXXDX]    lesser",
+            "where, to what place; to what purpose; for which reason, therefore;",
+            "quo                  CONJ",
+            "quo  CONJ   [XXXDX]    lesser",
+            "whither, in what place, where;",
+            "que                  TACKON",
+            "PACKON w/qui => whoever it be; whatever; each, each one; everyone, everything;",
+            "qu.o                 PRON   1 0 ABL S M",
+            "qu.o                 PRON   1 0 ABL S N",
+            "qu  PACK   [XXXAX]",
+            "(w/-que) each, each one; every, everybody, everything (more than 2); whatever;",
+            "(w/-que) any; each;"
+        ]
+    },
+    "36": {
+        "word": "et",
+        "word_data": [
+            "et                   CONJ",
+            "et  CONJ   [XXXAX]",
+            "and, and even; also, even;  (et ... et = both ... and);"
+        ]
+    },
+    "37": {
+        "word": "bello",
+        "word_data": [
+            "bell.o               N      2 2 DAT S N",
+            "bell.o               N      2 2 ABL S N",
+            "bellum, belli  N (2nd) N   [XWXAO]",
+            "war, warfare; battle, combat, fight; (at/in) (the) war(s); military force, arms",
+            "bell.o               V      1 1 PRES ACTIVE  IND 1 S",
+            "bello, bellare, bellavi, bellatus  V (1st) INTRANS   [XWXBO]",
+            "fight, wage war, struggle; take part in war/battle/fight (also animals/games);",
+            "bell.o               ADJ    1 1 DAT S M POS",
+            "bell.o               ADJ    1 1 DAT S N POS",
+            "bell.o               ADJ    1 1 ABL S M POS",
+            "bell.o               ADJ    1 1 ABL S N POS",
+            "bellus, bella -um, bellior -or -us, bellissimus -a -um  ADJ   [XXXBO]",
+            "pretty, handsome, charming, pleasant, agreeable, polite; nice, fine, excellent;",
+            "*"
+        ]
+    },
+    "38": {
+        "word": "passus",
+        "word_data": [
+            "pass.us              VPAR   3 1 NOM S M PERF PASSIVE PPL",
+            "pando, pandere, pandi, passus  V (3rd)   [XXXAX]",
+            "spread out [passis manibus => with hands outstretched];",
+            "pass.us              N      4 1 NOM S M",
+            "pass.us              N      4 1 VOC S M",
+            "pass.us              N      4 1 GEN S M",
+            "pass.us              N      4 1 NOM P M",
+            "pass.us              N      4 1 VOC P M",
+            "pass.us              N      4 1 ACC P M",
+            "passus, passus  N (4th) M   [XXXBX]",
+            "step, pace; [mille passus -> mile; duo milia passuum => two miles];",
+            "pass.us              ADJ    1 1 NOM S M POS",
+            "passus, passa, passum  ADJ   [XXXDS]    lesser",
+            "spread out; outstretched; dried;",
+            "pass.us              VPAR   3 1 NOM S M PERF         PPL",
+            "patior, pati, passus sum  V (3rd) DEP   [XXXAX]",
+            "suffer; allow; undergo, endure; permit;"
+        ]
+    },
+    "39": {
+        "word": ",",
+        "word_data": "punct"
+    },
+    "40": {
+        "word": "dum",
+        "word_data": [
+            "dum                  CONJ",
+            "dum  CONJ   [XXXAX]",
+            "while, as long as, until; provided that;"
+        ]
+    },
+    "41": {
+        "word": "conderet",
+        "word_data": [
+            "cond.eret            V      3 1 IMPF ACTIVE  SUB 3 S",
+            "condo, condere, condidi, conditus  V (3rd) TRANS   [XXXAO]",
+            "put/insert (into); store up/put away, preserve, bottle (wine); bury/inter; sink",
+            "build/found, make; shut (eyes); conceal/hide/keep safe; put together, compose;",
+            "restore; sheathe (sword); plunge/bury (weapon in enemy); put out of sight;"
+        ]
+    },
+    "42": {
+        "word": "urbem",
+        "word_data": [
+            "urb.em               N      3 3 ACC S F",
+            "urbs, urbis  N (3rd) F   [XXXAX]",
+            "city; City of Rome;"
+        ]
+    },
+    "43": {
+        "word": ",",
+        "word_data": "punct"
+    },
+    "44": {
+        "word": "inferretque",
+        "word_data": [
+            "que                  TACKON",
+            "-que = and (enclitic, translated before attached word); completes plerus/uter;",
+            "infer.ret            V      3 2 IMPF ACTIVE  SUB 3 S",
+            "infero, inferre, intuli, illatus  V TRANS   [XXXAO]",
+            "bring/carry in, import; advance, bring/march/step/move foward; impel, urge;",
+            "inflict/cause/inflict/impose/inspire (w/DAT); [bellum inferre => make war on];",
+            "put/throw/thrust in/on, insert; bury/inter; pay; charge as expense; append;",
+            "infero, inferre, intuli, inlatus  V TRANS   [XXXAO]",
+            "bring/carry in, import; advance, bring/march/step/move foward; impel, urge;",
+            "inflict/cause/inflict/impose/inspire (w/DAT); [bellum inferre => make war on];",
+            "put/throw/thrust in/on, insert; bury/inter; pay; charge as expense; append;"
+        ]
+    },
+    "45": {
+        "word": "deos",
+        "word_data": [
+            "de.os                N      2 1 ACC P M",
+            "Deus, Dei  N (2nd) M   [XEXAO]",
+            "God (Christian text); god; divine essence/being, supreme being; statue of god;",
+            "*"
+        ]
+    },
+    "46": {
+        "word": "Latio",
+        "word_data": [
+            "lati.o               ADJ    1 1 DAT S M POS",
+            "lati.o               ADJ    1 1 DAT S N POS",
+            "lati.o               ADJ    1 1 ABL S M POS",
+            "lati.o               ADJ    1 1 ABL S N POS",
+            "Latius, Latia, Latium  ADJ   [XXICO]",
+            "Latin; of Latium (central Italy including Rome/Italy); Roman; Italian;",
+            "latio                N      3 1 NOM S F",
+            "latio                N      3 1 VOC S F",
+            "latio, lationis  N (3rd) F   [XLXDO]    lesser",
+            "right; proposal (of law); entering (payment); [suffragii ~ => right to vote]];",
+            "rendering (assistance/accounts);"
+        ]
+    },
+    "47": {
+        "word": ",",
+        "word_data": "punct"
+    },
+    "48": {
+        "word": "genus",
+        "word_data": [
+            "gen.us               N      4 2 GEN S N",
+            "genu, genus  N (4th) N   [XXXBX]",
+            "knee;",
+            "genus                N      3 2 NOM S N",
+            "genus                N      3 2 VOC S N",
+            "genus                N      3 2 ACC S N",
+            "genus, generis  N (3rd) N   [XXXDX]    lesser",
+            "birth/descent/origin; race/family/house/stock/ancestry; offspring/descent;",
+            "noble birth; kind/sort/variety; class/rank; mode/method/style/fashion/way;"
+        ]
+    },
+    "49": {
+        "word": "unde",
+        "word_data": [
+            "unde                 ADV    POS",
+            "unde  ADV   [XXXAX]",
+            "from where, whence, from what or which place; from which; from whom;"
+        ]
+    },
+    "50": {
+        "word": "Latinum",
+        "word_data": [
+            "latin.um             ADJ    1 1 NOM S N POS",
+            "latin.um             ADJ    1 1 VOC S N POS",
+            "latin.um             ADJ    1 1 ACC S M POS",
+            "latin.um             ADJ    1 1 ACC S N POS",
+            "Latinus, Latina, Latinum  ADJ   [XXXBO]",
+            "Latin; of Latium; of/in (good/correct/plain) Latin (language); Roman/Italian;",
+            "*"
+        ]
+    },
+    "51": {
+        "word": ",",
+        "word_data": "punct"
+    },
+    "52": {
+        "word": "Albanique",
+        "word_data": [
+            "que                  TACKON",
+            "-que = and (enclitic, translated before attached word); completes plerus/uter;",
+            "an                   SUFFIX",
+            "-anus; (indicates former gens when adopted into another, Sejus -> Sejanus);",
+            "alban.i              ADJ    1 1 GEN S M POS",
+            "alban.i              ADJ    1 1 GEN S N POS",
+            "alban.i              ADJ    1 1 NOM P M POS",
+            "alban.i              ADJ    1 1 VOC P M POS",
+            "albus, alba -um, albior -or -us, albissimus -a -um  ADJ   [XXXAO]",
+            "white, pale, fair, hoary, gray; bright, clear; favorable, auspicious, fortunate",
+            "an                   SUFFIX",
+            "-an, -ain; of, pertaining/belonging to; connected with; derived/coming from;",
+            "alban.i              ADJ    1 1 GEN S M POS",
+            "alban.i              ADJ    1 1 GEN S M POS",
+            "alban.i              ADJ    1 1 GEN S N POS",
+            "alban.i              ADJ    1 1 GEN S N POS",
+            "alban.i              ADJ    1 1 NOM P M POS",
+            "alban.i              ADJ    1 1 NOM P M POS",
+            "alban.i              ADJ    1 1 VOC P M POS",
+            "alban.i              ADJ    1 1 VOC P M POS",
+            "alba, albae  N (1st) F   [DXXFS]    Late  veryrare",
+            "white precious stone; pearl;",
+            "album, albi  N (2nd) N   [XXXBO]",
+            "white (color); white (eye/egg); white tablet, official list, register;",
+            "projection-screen;",
+            "Albis, Albis  N (3rd) M   [XXGEO]    uncommon",
+            "Elbe; (river in Germany);"
+        ]
+    },
+    "53": {
+        "word": "patres",
+        "word_data": [
+            "patr.es              N      3 1 NOM P M",
+            "patr.es              N      3 1 VOC P M",
+            "patr.es              N      3 1 ACC P M",
+            "pater, patris  N (3rd) M   [XXXAX]",
+            "father; [pater familias, patris familias => head of family/household];",
+            "patr.es              V      1 1 PRES ACTIVE  SUB 2 S",
+            "patro, patrare, patravi, patratus  V (1st)   [XXXDX]    lesser",
+            "accomplish, bring to completion;"
+        ]
+    },
+    "54": {
+        "word": ",",
+        "word_data": "punct"
+    },
+    "55": {
+        "word": "atque",
+        "word_data": [
+            "atque                CONJ",
+            "atque  CONJ   [XXXAO]",
+            "and, as well/soon as; together with; and moreover/even; and too/also/now; yet;",
+            "que                  TACKON",
+            "-que = and (enclitic, translated before attached word); completes plerus/uter;",
+            "at                   CONJ",
+            "at  CONJ   [XXXAO]",
+            "but, but on the other hand; on the contrary; while, whereas; but yet; at least;"
+        ]
+    },
+    "56": {
+        "word": "altae",
+        "word_data": [
+            "alt.ae               VPAR   3 1 GEN S F PERF PASSIVE PPL",
+            "alt.ae               VPAR   3 1 DAT S F PERF PASSIVE PPL",
+            "alt.ae               VPAR   3 1 NOM P F PERF PASSIVE PPL",
+            "alt.ae               VPAR   3 1 VOC P F PERF PASSIVE PPL",
+            "alo, alere, alui, altus  V (3rd) TRANS   [XXXAO]",
+            "feed, nourish, rear, nurse, suckle; cherish; support, maintain, develop;",
+            "alt.ae               ADJ    1 1 GEN S F POS",
+            "alt.ae               ADJ    1 1 DAT S F POS",
+            "alt.ae               ADJ    1 1 NOM P F POS",
+            "alt.ae               ADJ    1 1 VOC P F POS",
+            "altus, alta -um, altior -or -us, altissimus -a -um  ADJ   [XXXAO]",
+            "high; deep/profound; shrill; lofty/noble; deep rooted; far-fetched; grown great"
+        ]
+    },
+    "57": {
+        "word": "moenia",
+        "word_data": [
+            "moen.ia              N      3 4 NOM P N",
+            "moen.ia              N      3 4 VOC P N",
+            "moen.ia              N      3 4 ACC P N",
+            "moene, moenis  N (3rd) N   [XXXAX]",
+            "defensive/town walls (pl.), bulwarks; fortifications; fortified town; castle;"
+        ]
+    },
+    "58": {
+        "word": "Romae",
+        "word_data": [
+            "rom.ae               N      1 1 GEN S F",
+            "rom.ae               N      1 1 LOC S F",
+            "rom.ae               N      1 1 DAT S F",
+            "rom.ae               N      1 1 NOM P F",
+            "rom.ae               N      1 1 VOC P F",
+            "Roma, Romae  N (1st) F   [XXIAX]",
+            "Rome;"
+        ]
+    },
+    "59": {
+        "word": ".",
+        "word_data": "punct"
+    }
+}

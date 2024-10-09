@@ -1,0 +1,28 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="description" content="Tolle Lege Login">
+        <meta name="keywords" content="Latin">
+        <meta charset="utf-8">
+        <title>
+            {% block title %}
+            {% endblock title %}
+        </title>
+        <link href="{% static "css/account.css" %}" rel="stylesheet">
+    </head>
+    <body>
+        <div id="header">
+            <h1>Tolle Lege</h1>
+            <span class="user">
+                {% if request.user.is_authenticated %}
+                    Logged in as {{ request.user.first_name|default:request.user.username }}.
+                {% endif %}
+            </span>
+        </div>
+        <div id="content">
+            {% block content %}
+            {% endblock content %}
+        </div>
+    </body>
+</html>

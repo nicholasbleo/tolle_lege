@@ -1,0 +1,43 @@
+{% extends "reader/base.html" %}
+
+{% block title %} {{ page.book }} {{ page.title }} {% endblock title %}
+
+{% block content %}
+<ul>
+    <li><a href="{% url "dashboard" %}">Back to dashboard</a></li>
+    <li><a href="{% url "reader:library" %}">Back to library</a></li>
+    <li><a href="{% url "reader:book_pages" page.book.id %}">Back to book index</a></li>
+</ul>
+<div class="page-title">
+    <h1>{{ page.book }}</h1>
+    <h2>{{ page.title }}</h2>
+</div>
+<div class="reader-container">
+    <div class="text-column">
+        <h3>Text</h3>
+        <div class="text-body">
+            {% for word in words %}
+                {% if word.parse == "Punctuation (no data)" %}
+                    <div class="punctuation">{{ word.morpheme }}</div>
+                {% else %}
+                    <div
+                    data-id={{ word.id }}
+                    onmouseover="getWordParse(event)"
+                    onmouseleave="hideWordParse(event)"
+                    onclick="handleWordClick(event)"
+                    class="morpheme"
+                    >
+                        {{ word.morpheme }}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="parse-column">
+        <h3>Word Info</h3>
+        {% for word in words %}
+            <div data-id={{ word.id }} class="word-parse hidden">{{ word.parse }}</div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock content %}
